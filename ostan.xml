@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NewsItemsTable>
+	<NewsItemRow>
+		<ostan>00</ostan>
+		<ostan_name>مرکزی</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>01</ostan>
+		<ostan_name>گیلان</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>02</ostan>
+		<ostan_name>مازندران</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>03</ostan>
+		<ostan_name>آذربایجان شرقی</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>04</ostan>
+		<ostan_name>آذربایجان غربی</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>05</ostan>
+		<ostan_name>کرمانشاه</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>06</ostan>
+		<ostan_name>خوزستان</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>07</ostan>
+		<ostan_name>فارس</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>08</ostan>
+		<ostan_name>كرمان</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>09</ostan>
+		<ostan_name>خراسان رضوئ</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>10</ostan>
+		<ostan_name>اصفهان</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>11</ostan>
+		<ostan_name>سیستان وبلوچستان</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>12</ostan>
+		<ostan_name>كردستان</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>13</ostan>
+		<ostan_name>همدان</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>14</ostan>
+		<ostan_name>چهارمحال وبختیارئ</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>15</ostan>
+		<ostan_name>لرستان</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>16</ostan>
+		<ostan_name>ایلام</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>17</ostan>
+		<ostan_name>كهگیلویه وبویراحمد</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>18</ostan>
+		<ostan_name>بوشهر</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>19</ostan>
+		<ostan_name>زنجان</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>20</ostan>
+		<ostan_name>سمنان</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>21</ostan>
+		<ostan_name>یزد</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>22</ostan>
+		<ostan_name>هرمزگان</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>23</ostan>
+		<ostan_name>تهران</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>24</ostan>
+		<ostan_name>اردبیل</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>25</ostan>
+		<ostan_name>قم</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>26</ostan>
+		<ostan_name>قزوین</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>27</ostan>
+		<ostan_name>گلستان</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>28</ostan>
+		<ostan_name>خراسان شمالی</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>29</ostan>
+		<ostan_name>خراسان جنوبی</ostan_name>
+	</NewsItemRow>
+	<NewsItemRow>
+		<ostan>30</ostan>
+		<ostan_name>البرز</ostan_name>
+	</NewsItemRow>
+</NewsItemsTable>
